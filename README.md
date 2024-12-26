@@ -4,6 +4,13 @@
 
 <h2 align="center"><b>CobaltIDE</b></h2>
 
+
+
+
+<h1>NOT IN DEVLOPMENT</h1>
+
+
+
 <div align="center">
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FXed-Editor%2FXed-Editor?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FXed-Editor%2FXed-Editor.svg?type=shield"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXed-Editor%2FXed-Editor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views%20(today/total)&edge_flat=false" alt="Hits">
